@@ -14,8 +14,8 @@ This is part of the simulation and **does not perform any real hacking or exploi
 
 ## ⚠️ Disclaimer
 Sigmis is **NOT malware** 
-the 2fa key is 123 
-you can check the source code 
+**-the 2fa key is 123** 
+-you can check the source code 
 
 This project is intended for:
 - education
