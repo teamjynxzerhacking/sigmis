@@ -20,6 +20,7 @@ This project is intended for:
 - education
 - scripting practice
 - understanding basic security logic
+- 
 
 ---
 
@@ -34,6 +35,8 @@ This project is intended for:
 ## 📦 Requirements
 - Windows OS
 - Command Prompt (CMD)
+## previw
+![Sigmis Preview](prewiew.png)
 
 ---
 
